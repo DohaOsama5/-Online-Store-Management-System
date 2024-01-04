@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1702918763 source:c:\users\p t\documents\projectc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1704055510 source:e:\iti\basic programming\projectc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
